@@ -5,6 +5,8 @@
 
     <groupId>com.example</groupId>
     <artifactId>automation-project</artifactId>
+    <artifactId>MyWebApp</artifactId>
+6b05453 (Initial commit)
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
